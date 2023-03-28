@@ -2,7 +2,7 @@
 Fetch Api OMBD Using React.js
 
 ## Screenshots
-![Movieland](https://user-images.githubusercontent.com/109071310/228106184-992debaa-58fd-4c39-8f23-f3c350fb46a2.jpeg)
+![Movieland (1)](https://user-images.githubusercontent.com/109071310/228106957-4a1dc25a-9d51-401b-a45b-ed80c8aa887e.jpeg)
 
 
 ## Building from Source
